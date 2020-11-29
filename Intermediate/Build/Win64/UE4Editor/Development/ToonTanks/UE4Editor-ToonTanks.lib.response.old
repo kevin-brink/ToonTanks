@@ -8,8 +8,10 @@
 /NODEFAULTLIB
 "E:\Programming\repos\Unreal\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "E:\Programming\repos\Unreal\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\PawnBase.cpp.obj"
+"E:\Programming\repos\Unreal\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\PawnTank.cpp.obj"
 "E:\Programming\repos\Unreal\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\ToonTanks.cpp.obj"
 "E:\Programming\repos\Unreal\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\PawnBase.gen.cpp.obj"
+"E:\Programming\repos\Unreal\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\PawnTank.gen.cpp.obj"
 "E:\Programming\repos\Unreal\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\ToonTanks.init.gen.cpp.obj"
 "E:\Programming\repos\Unreal\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Default.rc2.res"
 /OUT:"E:\Programming\repos\Unreal\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks.lib"
