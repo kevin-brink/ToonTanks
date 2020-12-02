@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ToonTanks.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{770C6DCA-DECB-430A-8335-A0F0D38D4EA8}</UniqueIdentifier>
+      <UniqueIdentifier>{EA7AEBA5-13AA-4790-AFA6-65E7E917DEBE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ToonTanks.Target.cs">
       <Filter>Source</Filter>
@@ -14,7 +14,7 @@
     <None Include="..\..\.gitattributes" />
     <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{54D8F0F7-D95C-4D70-9312-2AB7E1A82093}</UniqueIdentifier>
+      <UniqueIdentifier>{47E5EC41-43CD-4F61-B75E-A01C691F0D48}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -29,7 +29,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ToonTanks">
-      <UniqueIdentifier>{A79B7282-CF2A-4EA5-8FE4-BFB6EF309BD4}</UniqueIdentifier>
+      <UniqueIdentifier>{D14C7C6A-48EA-43F9-919D-C893E499972A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ToonTanks\ToonTanks.Build.cs">
       <Filter>Source\ToonTanks</Filter>
@@ -40,8 +40,17 @@
     <ClInclude Include="..\..\Source\ToonTanks\ToonTanks.h">
       <Filter>Source\ToonTanks</Filter>
     </ClInclude>
+    <Filter Include="Source\ToonTanks\Actors">
+      <UniqueIdentifier>{29DBF5FC-A808-42F7-8C2F-A65C8F3F18BE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ToonTanks\Actors\ProjectileBase.cpp">
+      <Filter>Source\ToonTanks\Actors</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ToonTanks\Actors\ProjectileBase.h">
+      <Filter>Source\ToonTanks\Actors</Filter>
+    </ClInclude>
     <Filter Include="Source\ToonTanks\Pawns">
-      <UniqueIdentifier>{86D21F12-A06E-4924-BD6E-017EB3D6B952}</UniqueIdentifier>
+      <UniqueIdentifier>{6CF3DA18-1C7F-4612-931F-4961FE19219D}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\ToonTanks\Pawns\PawnBase.cpp">
       <Filter>Source\ToonTanks\Pawns</Filter>
