@@ -5,3 +5,5 @@ D:\Unreal Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/Capsule
 D:\Unreal Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
 D:\Unreal Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
 D:\Unreal Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
+E:\Programming\repos\Unreal\ToonTanks\Source\Toontanks/Actors/ProjectileBase.h
+E:\Programming\repos\Unreal\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\ProjectileBase.generated.h
