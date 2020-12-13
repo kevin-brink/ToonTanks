@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ToonTanks.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{7A0A8C51-A19C-4206-9F78-F6A5A1927465}</UniqueIdentifier>
+      <UniqueIdentifier>{B12761D0-63EA-4523-B5A6-249378ECCF7E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ToonTanks.Target.cs">
       <Filter>Source</Filter>
@@ -11,10 +11,11 @@
     <None Include="..\..\Source\ToonTanksEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.editorconfig" />
     <None Include="..\..\.gitattributes" />
     <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{D7BB3225-EEC6-4938-9787-0C1718F2F012}</UniqueIdentifier>
+      <UniqueIdentifier>{6B250B5C-824B-4FE4-BCAE-4418E379B938}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -29,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ToonTanks">
-      <UniqueIdentifier>{DD39141A-9E4A-428C-A654-AE2F4C125AA4}</UniqueIdentifier>
+      <UniqueIdentifier>{2B72BC2E-064D-4C38-A7F2-792915A11ED0}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ToonTanks\ToonTanks.Build.cs">
       <Filter>Source\ToonTanks</Filter>
@@ -41,7 +42,7 @@
       <Filter>Source\ToonTanks</Filter>
     </ClInclude>
     <Filter Include="Source\ToonTanks\Actors">
-      <UniqueIdentifier>{0A71A353-F4E2-426D-BECD-E8DBB2F7796E}</UniqueIdentifier>
+      <UniqueIdentifier>{55C92A07-0EB7-4D58-837A-B287EAB38CE7}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\ToonTanks\Actors\ProjectileBase.cpp">
       <Filter>Source\ToonTanks\Actors</Filter>
@@ -49,8 +50,17 @@
     <ClInclude Include="..\..\Source\ToonTanks\Actors\ProjectileBase.h">
       <Filter>Source\ToonTanks\Actors</Filter>
     </ClInclude>
+    <Filter Include="Source\ToonTanks\Components">
+      <UniqueIdentifier>{614D2628-0B11-4D9B-875E-3F839D3BCA8C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ToonTanks\Components\HealthComponent.cpp">
+      <Filter>Source\ToonTanks\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ToonTanks\Components\HealthComponent.h">
+      <Filter>Source\ToonTanks\Components</Filter>
+    </ClInclude>
     <Filter Include="Source\ToonTanks\GameModes">
-      <UniqueIdentifier>{72DA4312-0098-4610-B511-97CBEE450CB7}</UniqueIdentifier>
+      <UniqueIdentifier>{28E95434-5B23-4D89-84EB-6215D788D891}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\ToonTanks\GameModes\TankGameModeBase.cpp">
       <Filter>Source\ToonTanks\GameModes</Filter>
@@ -59,7 +69,7 @@
       <Filter>Source\ToonTanks\GameModes</Filter>
     </ClInclude>
     <Filter Include="Source\ToonTanks\Pawns">
-      <UniqueIdentifier>{7255D96E-4220-48F7-9911-5179FCA40685}</UniqueIdentifier>
+      <UniqueIdentifier>{3BD65B59-3407-4ED9-A371-4A22F08F3FA2}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\ToonTanks\Pawns\PawnBase.cpp">
       <Filter>Source\ToonTanks\Pawns</Filter>
