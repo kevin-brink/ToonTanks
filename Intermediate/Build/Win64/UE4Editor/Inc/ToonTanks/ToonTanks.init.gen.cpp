@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeToonTanks_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x3BE18154,
+				0xE24331FE,
 				0x211E21D4,
 				METADATA_PARAMS(nullptr, 0)
 			};
