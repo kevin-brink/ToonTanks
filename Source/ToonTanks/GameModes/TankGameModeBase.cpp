@@ -32,7 +32,7 @@ void ATankGameModeBase::ActorDied(AActor* DeadActor)
 	{
 		DestroyedTurret->HandleDestruction();
 
-		if (--TargetTurrets==0)
+		if (--TargetTurrets == 0)
 		{
 			HandleGameOver(true);
 		}
