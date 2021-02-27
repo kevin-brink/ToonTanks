@@ -5,3 +5,20 @@ D:\Unreal Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatR
 D:\Unreal Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 D:\Unreal Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
 E:\Programming\repos\Unreal\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\TankGameModeBase.generated.h
+E:\Programming\repos\Unreal\ToonTanks\Source\ToonTanks/Pawns/PawnTank.h
+E:\Programming\repos\Unreal\ToonTanks\Source\ToonTanks\Pawns\PawnBase.h
+E:\Programming\repos\Unreal\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\PawnBase.generated.h
+E:\Programming\repos\Unreal\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\PawnTank.generated.h
+E:\Programming\repos\Unreal\ToonTanks\Source\ToonTanks/Pawns/PawnTurret.h
+E:\Programming\repos\Unreal\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\PawnTurret.generated.h
+D:\Unreal Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\Unreal Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\Unreal Engine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Unreal Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+D:\Unreal Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+D:\Unreal Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\Unreal Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\Unreal Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\Unreal Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\Unreal Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\Unreal Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
