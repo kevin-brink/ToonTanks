@@ -16,7 +16,7 @@ APawnTank::APawnTank()
 
 void APawnTank::HandleDestruction()
 {
-
+	Super::HandleDestruction();
 }
 
 
