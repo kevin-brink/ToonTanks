@@ -15,11 +15,9 @@ void ATankGameModeBase::BeginPlay()
 
 int32 ATankGameModeBase::GetTargetTurretCount()
 {
-	Super::BeginPlay();
 	TArray<AActor*> TurretActors;
 	UGameplayStatics::GetAllActorsOfClass(GetWorld(), APawnTurret::StaticClass(), TurretActors);
 	return TurretActors.Num();
-
 }
 
 void ATankGameModeBase::ActorDied(AActor* DeadActor)
@@ -37,7 +35,6 @@ void ATankGameModeBase::ActorDied(AActor* DeadActor)
 			HandleGameOver(true);
 		}
 	}
-
 }
 
 void ATankGameModeBase::HandleGameStart()
